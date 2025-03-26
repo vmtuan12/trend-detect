@@ -1,0 +1,634 @@
+[
+    {
+        "triggers": "khởi tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "gây rối trật tự công cộng",
+                    "những người này"
+                ],
+                "url": "https://baomoi.com/cong-an-khoi-to-9-nguoi-trong-vu-khieng-quan-tai-dieu-pho-o-quan-1-c51675604.epi",
+                "date": "2025-03-10",
+                "sentence": "Những người này bị khởi tố để điều tra về tội gây rối trật tự công cộng ."
+            },
+            {
+                "texts": [
+                    "gây rối trật tự công cộng",
+                    "hai bị hại"
+                ],
+                "url": "https://baomoi.com/nhom-hoc-sinh-gay-an-do-mau-thuan-nhat-thoi-trong-luc-nhin-nhau-c51652491.epi",
+                "date": "2025-03-07",
+                "sentence": "( Sau khi vụ án được điều tra lại , hai bị hại này đã bị khởi tố tội gây rối trật tự công cộng ) ."
+            },
+            {
+                "texts": [
+                    "gây rối trật tự công cộng",
+                    "hai bị hại"
+                ],
+                "url": "https://baomoi.com/nhom-hoc-sinh-gay-an-do-mau-thuan-nhat-thoi-trong-luc-nhin-nhau-c51652491.epi",
+                "date": "2025-03-07",
+                "sentence": "( Sau khi vụ án được điều tra lại , hai bị hại này đã bị khởi tố tội gây rối trật tự công cộng ) ."
+            }
+        ]
+    },
+    {
+        "triggers": "khởi tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "hành vi mua bán trái phép chất ma tuý",
+                    "7 đối tượng",
+                    "cơ quan cảnh sát điều tra công an tỉnh tuyên quang"
+                ],
+                "url": "https://baomoi.com/triet-xoa-duong-day-ma-tuy-khung-hoat-dong-tren-khong-gian-mang-thu-giu-153-kg-can-sa-c51695836.epi",
+                "date": "2025-03-12",
+                "sentence": "Cơ quan Cảnh sát điều tra Công an tỉnh Tuyên Quang vừa triệt phá , khởi tố 7 đối tượng về hành vi mua bán trái phép chất ma túy , thu giữ trên 153kg ma túy cần sa , 2 lít dầu cần sa và nhiều tang vật liên quan ."
+            },
+            {
+                "texts": [
+                    "công an tỉnh tuyên quang",
+                    "7 đối tượng",
+                    "hành vi mua bán trái phép chất ma tuý"
+                ],
+                "url": "https://baomoi.com/cong-an-tinh-tuyen-quang-thu-giu-hon-153kg-can-sa-c51697961.epi",
+                "date": "2025-03-12",
+                "sentence": "Công an tỉnh Tuyên Quang phá thành công chuyên án , khởi tố 7 đối tượng về hành vi mua bán trái phép chất ma túy , thu giữ nhiều tang vật liên quan ( ảnh : Công an tỉnh Tuyên Quang ) ."
+            },
+            {
+                "texts": [
+                    "chiều 12 / 3",
+                    "7 đối tượng",
+                    "cơ quan csđt công an tỉnh",
+                    "hành vi mua bán trái phép chất ma tuý"
+                ],
+                "url": "https://baomoi.com/cong-an-tinh-tuyen-quang-thu-giu-hon-153kg-can-sa-c51697961.epi",
+                "date": "2025-03-12",
+                "sentence": "Chiều 12 / 3 , Công an tỉnh Tuyên Quang thông tin , Cơ quan CSĐT Công an tỉnh vừa phá thành công chuyên án , khởi tố 7 đối tượng về hành vi mua bán trái phép chất ma túy , thu giữ trên 153kg ma túy cần sa , 2 lít dầu cần sa và nhiều tang vật liên quan ."
+            }
+        ]
+    },
+    {
+        "triggers": "khởi tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "ông nguyễn hồ nam"
+                ],
+                "url": "https://baomoi.com/nguoi-nha-pho-chu-tich-bcg-dang-ky-ban-5-trieu-co-phieu-c51696327.epi",
+                "date": "2025-03-12",
+                "sentence": "Làn sóng bán giải chấp cổ phiếu BCG là do Bamboo Capital thông báo nhận được quyết định khởi tố đối với ông Nguyễn Hồ Nam ."
+            },
+            {
+                "texts": [
+                    "ông nguyễn hồ nam"
+                ],
+                "url": "https://baomoi.com/nguoi-nha-pho-chu-tich-bcg-dang-ky-ban-5-trieu-co-phieu-c51696327.epi",
+                "date": "2025-03-12",
+                "sentence": "Sau thông tin ông Nguyễn Hồ Nam bị khởi tố , cổ phiếu BCG giảm sàn phiên liên tiếp , kết thúc phiên giao dịch ngày 12 / 3 giá cổ phiếu BCG giảm còn 4030 đồng / cổ phiếu ."
+            },
+            {
+                "texts": [
+                    "ông nguyễn hồ nam"
+                ],
+                "url": "https://baomoi.com/top-10-co-phieu-tang-giam-manh-nhat-tuan-nhom-vingroup-khoi-sac-nhieu-ma-khoang-san-bi-chot-loi-c51656160.epi",
+                "date": "2025-03-07",
+                "sentence": "Ở chiều ngược lại , hai cổ phiếu liên quan BCG và TCD bị bán tháo ồ ạt trong cả tuần , sau khi có thông tin cựu chủ tịch HĐQT của BCG là ông Nguyễn Hồ Nam bị khởi tố ."
+            }
+        ]
+    },
+    {
+        "triggers": "khởi tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "gây rối trật tự công cộng",
+                    "9 bị can"
+                ],
+                "url": "https://baomoi.com/khoi-to-9-bi-can-vu-khieng-quan-tai-truoc-cho-ben-thanh-o-tp-hcm-c51677543.epi",
+                "date": "2025-03-10",
+                "sentence": "Cụ thể , 9 bị can bị khởi tố về tội \" Gây rối trật tự công cộng \" gồm : Hồ Ngọc Tuấn ( SN 2000 ) , Lê Văn Nghĩa ( SN 1981 ) , Nguyễn Văn Quyết ( SN 1995 ) và vợ là Võ Thị Thanh Xuân ( SN 1995 ) - cùng trú TPHCM , Nguyễn Đăng Khoa ( SN 2000 ) , Nguyễn Văn Thẩm ( SN 1994 ) , Nguyễn Quốc Cường ( SN 1981 ) , Phạm Hùng Cường ( SN 1977 ) , Nguyễn Hoàng Sơn ( SN 1972 ) - cùng quê Long An ."
+            },
+            {
+                "texts": [
+                    "gây rối trật tự công cộng",
+                    "9 bị can"
+                ],
+                "url": "https://baomoi.com/phe-chuan-khoi-to-nhom-nguoi-khieng-quan-tai-tai-trung-tam-tp-ho-chi-minh-c51677044.epi",
+                "date": "2025-03-10",
+                "sentence": "9 bị can bị khởi tố về tội \" Gây rối trật tự công cộng \" gồm : Hồ Ngọc Tuấn ( SN 2000 , bán hàng online ) , Nguyễn Văn Quyết ( SN 1985 ) , Vũ Thị Thanh Xuân ( SN 1995 , vợ Quyết , cùng bán hàng online ) , Nguyễn Đăng Khoa ( SN 2000 ) , Nguyễn Văn Thẩm ( SN 1994 , chủ trại hòm xã Long Trạch , huyện Cần Đước , tỉnh Long An ) , Nguyễn Quốc Cường ( SN 1981 ) , Phạm Hùng Cường ( SN 1977 ) , Nguyễn Hoàng Sơn ( SN 1972 ) , Lê Văn Nghĩa ( SN 1981 ) ."
+            },
+            {
+                "texts": [
+                    "gây rối trật tự công cộng",
+                    "9 bị can"
+                ],
+                "url": "https://baomoi.com/khoi-to-9-bi-can-vu-khieng-quan-tai-truoc-cho-ben-thanh-o-tp-hcm-c51677543.epi",
+                "date": "2025-03-10",
+                "sentence": "Cụ thể , 9 bị can bị khởi tố về tội \" Gây rối trật tự công cộng \" gồm : Hồ Ngọc Tuấn ( SN 2000 ) , Lê Văn Nghĩa ( SN 1981 ) , Nguyễn Văn Quyết ( SN 1995 ) và vợ là Võ Thị Thanh Xuân ( SN 1995 ) - cùng trú TPHCM , Nguyễn Đăng Khoa ( SN 2000 ) , Nguyễn Văn Thẩm ( SN 1994 ) , Nguyễn Quốc Cường ( SN 1981 ) , Phạm Hùng Cường ( SN 1977 ) , Nguyễn Hoàng Sơn ( SN 1972 ) - cùng quê Long An ."
+            }
+        ]
+    },
+    {
+        "triggers": "khởi tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "nguyễn thị hiền trinh ( trú thị trấn ma lâm , huyện hàm thuận bắc )",
+                    "tổ chức sử dụng trái phép chất ma tuý",
+                    "ngày 5 / 2 / 2025"
+                ],
+                "url": "https://baomoi.com/doi-tuong-bi-truy-na-dac-biet-sa-luoi-khi-vua-xuong-san-bay-tan-son-nhat-c51678648.epi",
+                "date": "2025-03-10",
+                "sentence": "Trước đó , ngày 5 / 2 / 2025 , Phó Thủ trưởng Cơ quan Cảnh sát điều tra Công an huyện Hàm Thuận Nam đã ra Quyết định truy nã đặc biệt Nguyễn Thị Hiền Trinh ( trú thị trấn Ma Lâm , huyện Hàm Thuận Bắc ) , bị khởi tố bị can về tội \" tổ chức sử dụng trái phép chất ma túy \" , quy định tại Điều 255 Bộ luật Hình sự ."
+            },
+            {
+                "texts": [
+                    "tổ chức sử dụng trái phép chất ma tuý",
+                    "ngày 5 - 2 - 2025",
+                    "nguyễn thị hiền trinh ( trú thị trấn ma lâm , huyện hàm thuận bắc )"
+                ],
+                "url": "https://baomoi.com/tom-gon-1-doi-tuong-bi-truy-na-khi-vua-xuong-san-bay-tan-son-nhat-c51675816.epi",
+                "date": "2025-03-10",
+                "sentence": "Theo thông tin từ phía Công an huyện Hàm Thuận Nam , tỉnh Bình Thuận , vào ngày 5 - 2 - 2025 , Phó Thủ trưởng Cơ quan Cảnh sát điều tra Công an huyện Hàm Thuận Nam đã ra quyết định truy nã đặc biệt Nguyễn Thị Hiền Trinh ( trú thị trấn Ma Lâm , huyện Hàm Thuận Bắc ) , bị khởi tố bị can về tội tổ chức sử dụng trái phép chất ma túy , quy định tại Điều 255 Bộ luật Hình sự ."
+            },
+            {
+                "texts": [
+                    "phó thủ trưởng cơ quan cảnh sát điều tra công an huyện hàm thuận nam",
+                    "tổ chức sử dụng trái phép chất ma tuý",
+                    "ngày 5 - 2 - 2025",
+                    "nguyễn thị hiền trinh ( trú thị trấn ma lâm , huyện hàm thuận bắc )"
+                ],
+                "url": "https://baomoi.com/bat-giu-1-phu-nu-bi-truy-na-dac-biet-khi-vua-xuong-san-bay-tan-son-nhat-c51673604.epi",
+                "date": "2025-03-10",
+                "sentence": "Trước đó , ngày 5 - 2 - 2025 , Phó Thủ trưởng Cơ quan Cảnh sát điều tra Công an huyện Hàm Thuận Nam đã ra quyết định truy nã đặc biệt Nguyễn Thị Hiền Trinh ( trú thị trấn Ma Lâm , huyện Hàm Thuận Bắc ) , bị khởi tố bị can về tội tổ chức sử dụng trái phép chất ma túy , quy định tại Điều 255 Bộ luật Hình sự ."
+            }
+        ]
+    },
+    {
+        "triggers": "truy tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "viện kiểm sát nhân dân tối cao",
+                    "27 bị can",
+                    "vi phạm quy định về thăm dò , khai thác tài nguyên"
+                ],
+                "url": "https://baomoi.com/yen-bai-cuu-lanh-dao-so-tiep-tay-hoat-dong-khai-thac-trai-phep-dat-hiem-c51695768.epi",
+                "date": "2025-03-12",
+                "sentence": "Vừa qua , Viện Kiểm sát Nhân dân tối cao đã công bố cáo trạng , truy tố 27 bị can trong vụ án \" Vi phạm quy định về thăm dò , khai thác tài nguyên \" , xảy ra tại Công ty cổ phần Tập đoàn Thái Dương ( Công ty Thái Dương ) ."
+            },
+            {
+                "texts": [
+                    "viện kiểm sát nhân dân tối cao",
+                    "vụ án khai thác trái phép đất hiếm ở yên bái liên quan đến công ty cổ phần tập đoàn thái dương",
+                    "27 bị can"
+                ],
+                "url": "https://baomoi.com/truy-to-27-bi-can-trong-vu-an-khai-thac-trai-phep-dat-hiem-tri-gia-hon-736-ty-dong-o-yen-bai-c51704511.epi",
+                "date": "2025-03-13",
+                "sentence": "Viện Kiểm sát nhân dân tối cao vừa ban hành cáo trạng truy tố 27 bị can trong vụ án khai thác trái phép đất hiếm ở Yên Bái liên quan đến Công ty cổ phần Tập đoàn Thái Dương do Đào Văn Huấn là chủ tịch Hội đồng quản trị ."
+            },
+            {
+                "texts": [
+                    "viện kiểm sát nhân dân tối cao",
+                    "27 bị can",
+                    "vi phạm quy định về thăm dò , khai thác tài nguyên"
+                ],
+                "url": "https://baomoi.com/thu-doan-khai-thac-tieu-thu-trai-phep-dat-hiem-cua-chu-tich-cong-ty-thai-duong-c51684397.epi",
+                "date": "2025-03-11",
+                "sentence": "Vừa qua , Viện Kiểm sát Nhân dân tối cao đã ban hành cáo trạng , truy tố 27 bị can trong vụ án \" Vi phạm quy định về thăm dò , khai thác tài nguyên \" , xảy ra tại Công ty cổ phần Tập đoàn Thái Dương ( Công ty Thái Dương ) và các đơn vị liên quan ."
+            },
+            {
+                "texts": [
+                    "viện kiểm sát nhân dân tối cao",
+                    "27 bị can",
+                    "khai thác trái phép đất hiếm ở yên bái"
+                ],
+                "url": "https://baomoi.com/vu-an-khai-thac-buon-lau-dat-hiem-hon-379-ty-dong-la-dac-biet-nghiem-trong-c51684295.epi",
+                "date": "2025-03-11",
+                "sentence": "Viện kiểm sát nhân dân Tối cao vừa ban hành cáo trạng truy tố 27 bị can trong vụ án khai thác trái phép đất hiếm ở Yên Bái ."
+            }
+        ]
+    },
+    {
+        "triggers": "truy tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "bị can hồ đức hợp , cựu giám đốc và lê công tiến , cựu phó giám đốc ; bùi đoàn như",
+                    "vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí"
+                ],
+                "url": "https://baomoi.com/yen-bai-cuu-lanh-dao-so-tiep-tay-hoat-dong-khai-thac-trai-phep-dat-hiem-c51695768.epi",
+                "date": "2025-03-12",
+                "sentence": "Bị can Hồ Đức Hợp , cựu Giám đốc và Lê Công Tiến , cựu Phó giám đốc ; Bùi Đoàn Như , cựu Phó chi cục trưởng Chi cục Bảo vệ môi trường , Sở TN & MT Yên Bái bị truy tố về tội \" Vi phạm quy định về quản lý , sử dụng tài sản Nhà nước gây thất thoát , lãng phí \" ."
+            },
+            {
+                "texts": [
+                    "cựu thứ trưởng bộ tn & mt nguyễn linh ngọc",
+                    "vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí"
+                ],
+                "url": "https://baomoi.com/truy-to-cuu-thu-truong-bo-tn-mt-va-26-bi-can-trong-vu-an-dat-hiem-c51692340.epi",
+                "date": "2025-03-12",
+                "sentence": "Cựu Thứ trưởng Bộ TN & MT Nguyễn Linh Ngọc bị truy tố tội \" Vi phạm quy định về quản lý , sử dụng tài sản Nhà nước gây thất thoát , lãng phí \" ."
+            },
+            {
+                "texts": [
+                    "cựu thứ trưởng bộ tn & mt nguyễn linh ngọc",
+                    "vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí"
+                ],
+                "url": "https://baomoi.com/cuu-thu-truong-bo-tai-nguyen-va-moi-truong-nguyen-linh-ngoc-bi-truy-to-c51681706.epi",
+                "date": "2025-03-11",
+                "sentence": "Cựu Thứ trưởng Bộ TN & MT Nguyễn Linh Ngọc bị truy tố về tội \" Vi phạm quy định về quản lý , sử dụng tài sản Nhà nước gây thất thoát , lãng phí \" ."
+            },
+            {
+                "texts": [
+                    "cựu thứ trưởng bộ tn & mt nguyễn linh ngọc",
+                    "vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí"
+                ],
+                "url": "https://baomoi.com/gay-that-thoat-hon-736-ty-dong-cuu-thu-truong-bi-truy-to-c51681564.epi",
+                "date": "2025-03-11",
+                "sentence": "Trong vụ án này , cựu Thứ trưởng Bộ TN & MT Nguyễn Linh Ngọc bị truy tố về tội Vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí , quy định tại khoản 3 , Điều 219 BLHS ."
+            },
+            {
+                "texts": [
+                    "cựu thứ trưởng bộ tn & mt nguyễn linh ngọc",
+                    "vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí"
+                ],
+                "url": "https://baomoi.com/truy-to-mot-cuu-thu-truong-vu-gay-that-thoat-hon-736-ty-dong-khai-thac-dat-hiem-c51683536.epi",
+                "date": "2025-03-11",
+                "sentence": "Trong số này , cựu Thứ trưởng Bộ TN & MT Nguyễn Linh Ngọc bị truy tố về tội Vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí , quy định tại khoản 3 , Điều 219 Bộ luật Hình sự ."
+            }
+        ]
+    },
+    {
+        "triggers": "truy tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "ngàn",
+                    "hiếp dâm"
+                ],
+                "url": "https://baomoi.com/ca-mau-hai-doi-tuong-thuc-hien-17-cuop-1-vu-hiep-dam-lanh-an-tu-c51688264.epi",
+                "date": "2025-03-11",
+                "sentence": "Bền là người trực tiếp thực hiện hành vi giao cấu với bị hại , Ngàn là đồng phạm giúp sức cho Bền thực hiện hành vi hiếp dâm nên cũng bị truy tố về tội \" Hiếp dâm \" ."
+            },
+            {
+                "texts": [
+                    "ngàn",
+                    "hiếp dâm"
+                ],
+                "url": "https://baomoi.com/hai-doi-tuong-cuop-tai-san-hiep-dam-linh-an-c51687635.epi",
+                "date": "2025-03-11",
+                "sentence": "Bền là người trực tiếp thực hiện hành vi giao cấu với bị hại , Ngàn cầm dao đứng canh chừng trên mui ghe , là đồng phạm giúp sức cho Bền thực hiện hành vi hiếp dâm nên Ngàn cũng bị truy tố về tội \" Hiếp dâm \" ."
+            },
+            {
+                "texts": [
+                    "ngàn",
+                    "hiếp dâm"
+                ],
+                "url": "https://baomoi.com/cuop-17-vu-tren-song-2-thanh-nien-lanh-44-nam-tu-c51687663.epi",
+                "date": "2025-03-11",
+                "sentence": "Bền là người trực tiếp thực hiện hành vi giao cấu với bị hại , Ngàn cầm dao đứng canh chừng trên mũi ghe , là đồng phạm giúp sức cho Bền thực hiện hành vi hiếp dâm nên Ngàn cũng bị truy tố về tội \" Hiếp dâm \" ."
+            },
+            {
+                "texts": [
+                    "ngàn",
+                    "hiếp dâm"
+                ],
+                "url": "https://baomoi.com/44-nam-tu-cho-hai-ke-cuop-tai-san-hiep-dam-c51687314.epi",
+                "date": "2025-03-11",
+                "sentence": "Bị cáo Bền là người trực tiếp thực hiện hành vi giao cấu với bị hại , Ngàn cầm dao đứng canh chừng trên mui ghe , là đồng phạm giúp sức cho Bền thực hiện hành vi hiếp dâm , nên Ngàn cũng bị truy tố về tội \" Hiếp dâm \" ."
+            },
+            {
+                "texts": [
+                    "ngàn",
+                    "hiếp dâm"
+                ],
+                "url": "https://baomoi.com/phat-44-nam-tu-2-ke-cuop-tai-san-hiep-dam-c51687517.epi",
+                "date": "2025-03-11",
+                "sentence": "Bền là người trực tiếp thực hiện hành vi hiếp dâm , còn Ngàn cầm dao đứng canh chừng trên mui ghe , giúp sức cho Bền thực hiện hành vi nên cùng bị truy tố về tội \" Hiếp dâm \" ."
+            }
+        ]
+    },
+    {
+        "triggers": "truy tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "vksnd tối cao",
+                    "vi phạm quy định về nghiên cứu , thăm dò , khai thác tài nguyên ; vi phạm quy định về kế toán gây hậu quả nghiêm trọng ; buôn lậu ; tiêu thụ tài sản do người khác phạm tội mà có ; vi phạm quy định về quản lý sử dụng tài sản nhà nước gây thất thoát , lãng phí và gây ô nhiễm môi trường",
+                    "27 bị can"
+                ],
+                "url": "https://baomoi.com/manh-khoe-cua-chu-tich-cong-ty-dat-hiem-viet-nam-tuon-hon-470-tan-dat-hiem-ra-nuoc-ngoai-c51693708.epi",
+                "date": "2025-03-12",
+                "sentence": "VKSND tối cao đã ban hành cáo trạng truy tố 27 bị can trong vụ án \" Vi phạm quy định về nghiên cứu , thăm dò , khai thác tài nguyên ; Vi phạm quy định về kế toán gây hậu quả nghiêm trọng ; Buôn lậu ; Tiêu thụ tài sản do người khác phạm tội mà có ; Vi phạm quy định về quản lý sử dụng tài sản Nhà nước gây thất thoát , lãng phí và Gây ô nhiễm môi trường \" , xảy ra tại Mỏ đất hiếm Yên Phú , Công ty Cổ phần Tập đoàn Thái Dương ( Công ty Thái Dương ) và các đơn vị có liên quan ."
+            },
+            {
+                "texts": [
+                    "vksnd tối cao",
+                    "vi phạm quy định về nghiên cứu , thăm dò , khai thác tài nguyên ; vi phạm quy định về kế toán gây hậu quả nghiêm trọng ; buôn lậu ; tiêu thụ tài sản do người khác phạm tội mà có ; vi phạm quy định về quản lý sử dụng tài sản nhà nước gây thất thoát , lãng phí và gây ô nhiễm môi trường",
+                    "27 bị can"
+                ],
+                "url": "https://baomoi.com/manh-khoe-cua-chu-tich-cong-ty-dat-hiem-viet-nam-tuon-hon-470-tan-dat-hiem-ra-nuoc-ngoai-c51693708.epi",
+                "date": "2025-03-12",
+                "sentence": "VKSND tối cao đã ban hành cáo trạng truy tố 27 bị can trong vụ án \" Vi phạm quy định về nghiên cứu , thăm dò , khai thác tài nguyên ; Vi phạm quy định về kế toán gây hậu quả nghiêm trọng ; Buôn lậu ; Tiêu thụ tài sản do người khác phạm tội mà có ; Vi phạm quy định về quản lý sử dụng tài sản Nhà nước gây thất thoát , lãng phí và Gây ô nhiễm môi trường \" , xảy ra tại Mỏ đất hiếm Yên Phú , Công ty Cổ phần Tập đoàn Thái Dương ( Công ty Thái Dương ) và các đơn vị có liên quan ."
+            },
+            {
+                "texts": [
+                    "vi phạm quy định về nghiên cứu , thăm dò , khai thác tài nguyên ; vi phạm quy định về kế toán gây hậu quả nghiêm trọng ; buôn lậu ; tiêu thụ tài sản do người khác phạm tội mà có ; vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí và gây ô nhiễm môi trường , xảy ra tại công ty cp tập đoàn thái dương và các đơn vị liên quan",
+                    "vksnd tối cao",
+                    "27 bị can"
+                ],
+                "url": "https://baomoi.com/cuu-can-bo-yen-bai-lam-sai-dai-gia-dat-hiem-kiem-loi-bat-chinh-bon-tien-c51684240.epi",
+                "date": "2025-03-11",
+                "sentence": "Như VietNamNet đã đưa , VKSND Tối cao vừa hoàn tất cáo trạng truy tố 27 bị can trong vụ án Vi phạm quy định về nghiên cứu , thăm dò , khai thác tài nguyên ; Vi phạm quy định về kế toán gây hậu quả nghiêm trọng ; Buôn lậu ; Tiêu thụ tài sản do người khác phạm tội mà có ; Vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí và Gây ô nhiễm môi trường , xảy ra tại Công ty CP Tập đoàn Thái Dương và các đơn vị liên quan ."
+            },
+            {
+                "texts": [
+                    "vksnd tối cao",
+                    "27 bị can"
+                ],
+                "url": "https://baomoi.com/cuu-thu-truong-bo-tnmt-va-cap-duoi-bat-den-xanh-cho-doanh-nghiep-khai-thac-dat-hiem-trai-phep-c51683647.epi",
+                "date": "2025-03-11",
+                "sentence": "VKSND Tối cao vừa ban hành cáo trạng đề nghị truy tố 27 bị can trong vụ án Công ty Thái Dương khai thác trái phép đất hiếm ở mỏ Yên Phú ( tỉnh Yên Bái ) , gây thất thoát cho Nhà nước hơn 736 tỷ đồng ."
+            },
+            {
+                "texts": [
+                    "vi phạm quy định về nghiên cứu , thăm dò , khai thác tài nguyên ; vi phạm quy định về kế toán gây hậu quả nghiêm trọng ; buôn lậu ; tiêu thụ tài sản do người khác phạm tội mà có ; vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí và gây ô nhiễm môi trường , xảy ra tại công ty cp tập đoàn thái dương và các đơn vị liên quan",
+                    "vksnd tối cao",
+                    "27 bị can"
+                ],
+                "url": "https://baomoi.com/gay-that-thoat-hon-736-ty-dong-cuu-thu-truong-bi-truy-to-c51681564.epi",
+                "date": "2025-03-11",
+                "sentence": "VKSND Tối cao vừa hoàn tất cáo trạng truy tố 27 bị can trong vụ án Vi phạm quy định về nghiên cứu , thăm dò , khai thác tài nguyên ; Vi phạm quy định về kế toán gây hậu quả nghiêm trọng ; Buôn lậu ; Tiêu thụ tài sản do người khác phạm tội mà có ; Vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí và Gây ô nhiễm môi trường , xảy ra tại Công ty CP Tập đoàn Thái Dương và các đơn vị liên quan ."
+            }
+        ]
+    },
+    {
+        "triggers": "truy tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "bị can đoàn văn huấn ( chủ tịch công ty thái dương )",
+                    "vi phạm quy định về kế toán gây hậu quả nghiêm trọng",
+                    "gây ô nhiễm môi trường",
+                    "vi phạm quy định về thăm dò , khai thác tài nguyên"
+                ],
+                "url": "https://baomoi.com/truy-to-cuu-thu-truong-bo-tn-mt-va-26-bi-can-trong-vu-an-dat-hiem-c51692340.epi",
+                "date": "2025-03-12",
+                "sentence": "Bị can Đoàn Văn Huấn ( Chủ tịch Công ty Thái Dương ) bị truy tố về 3 tội danh \" Vi phạm quy định về thăm dò , khai thác tài nguyên \" , \" Vi phạm quy định về kế toán gây hậu quả nghiêm trọng \" và \" Gây ô nhiễm môi trường \" ."
+            },
+            {
+                "texts": [
+                    "vi phạm quy định về kế toán gây hậu quả nghiêm trọng",
+                    "bị can đoàn văn huấn , chủ tịch hội đồng quản trị công ty thái dương",
+                    "gây ô nhiễm môi trường",
+                    "vi phạm quy định về thăm dò , khai thác tài nguyên"
+                ],
+                "url": "https://baomoi.com/thu-doan-khai-thac-tieu-thu-trai-phep-dat-hiem-cua-chu-tich-cong-ty-thai-duong-c51684397.epi",
+                "date": "2025-03-11",
+                "sentence": "Đáng nói , bị can Đoàn Văn Huấn , Chủ tịch Hội đồng quản trị Công ty Thái Dương bị truy tố tới 3 tội danh , gồm : \" Vi phạm quy định về thăm dò , khai thác tài nguyên \" , \" Vi phạm quy định về kế toán gây hậu quả nghiêm trọng \" , và \" Gây ô nhiễm môi trường \" ."
+            },
+            {
+                "texts": [
+                    "vi phạm quy định về kế toán gây hậu quả nghiêm trọng",
+                    "gây ô nhiễm môi trường",
+                    "bị can đoàn văn huấn , chủ tịch công ty thái dương",
+                    "vi phạm quy định về thăm dò , khai thác tài nguyên"
+                ],
+                "url": "https://baomoi.com/cuu-thu-truong-nguyen-linh-ngoc-cung-dong-pham-gay-thiet-hai-hon-736-ti-dong-c51682094.epi",
+                "date": "2025-03-11",
+                "sentence": "Riêng bị can Đoàn Văn Huấn , Chủ tịch Công ty Thái Dương , bị truy tố về 3 tội danh , gồm : \" Vi phạm quy định về thăm dò , khai thác tài nguyên \" , \" Vi phạm quy định về kế toán gây hậu quả nghiêm trọng \" , \" Gây ô nhiễm môi trường \" ."
+            },
+            {
+                "texts": [
+                    "vi phạm quy định về kế toán gây hậu quả nghiêm trọng",
+                    "gây ô nhiễm môi trường",
+                    "đoàn văn huấn , chủ tịch hội đồng quản trị công ty thái dương",
+                    "vi phạm quy định về thăm dò , khai thác tài nguyên"
+                ],
+                "url": "https://baomoi.com/cuu-thu-truong-bo-tai-nguyen-va-moi-truong-nguyen-linh-ngoc-bi-truy-to-c51681706.epi",
+                "date": "2025-03-11",
+                "sentence": "Trong số này , Đoàn Văn Huấn , Chủ tịch Hội đồng quản trị Công ty Thái Dương bị truy tố 3 tội danh , gồm : \" Vi phạm quy định về thăm dò , khai thác tài nguyên \" , \" Vi phạm quy định về kế toán gây hậu quả nghiêm trọng \" , và \" Gây ô nhiễm môi trường \" ."
+            }
+        ]
+    },
+    {
+        "triggers": "truy tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "các bị can khác",
+                    "vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí ; buôn lậu ; vi phạm quy định về kế toán gây hậu quả nghiêm trọng ; gây ô nhiễm môi trường ; tiêu thụ tài sản do người khác phạm tội mà có"
+                ],
+                "url": "https://baomoi.com/thu-doan-khai-thac-tieu-thu-trai-phep-dat-hiem-cua-chu-tich-cong-ty-thai-duong-c51684397.epi",
+                "date": "2025-03-11",
+                "sentence": "Các bị can khác bị truy tố về một trong các tội : Vi phạm quy định về quản lý , sử dụng tài sản Nhà nước gây thất thoát , lãng phí ; buôn lậu ; vi phạm quy định về kế toán gây hậu quả nghiêm trọng ; gây ô nhiễm môi trường ; tiêu thụ tài sản do người khác phạm tội mà có ."
+            },
+            {
+                "texts": [
+                    "các bị can khác",
+                    "các hành vi như buôn lậu ; tiêu thụ tài sản do người khác phạm tội mà có ; gây ô nhiễm môi trường ; vi phạm quy định kế toán"
+                ],
+                "url": "https://baomoi.com/cuu-thu-truong-bo-tnmt-va-cap-duoi-bat-den-xanh-cho-doanh-nghiep-khai-thac-dat-hiem-trai-phep-c51683647.epi",
+                "date": "2025-03-11",
+                "sentence": "Các bị can khác bị truy tố về các hành vi như Buôn lậu ; Tiêu thụ tài sản do người khác phạm tội mà có ; Gây ô nhiễm môi trường ; Vi phạm quy định kế toán … ."
+            },
+            {
+                "texts": [
+                    "các bị can khác",
+                    "các hành vi như buôn lậu ; tiêu thụ tài sản do người khác phạm tội mà có ; gây ô nhiễm môi trường ; vi phạm quy định kế toán"
+                ],
+                "url": "https://baomoi.com/truy-to-cuu-thu-truong-bo-tn-mt-trong-vu-khai-thac-trai-phep-dat-hiem-c51682474.epi",
+                "date": "2025-03-11",
+                "sentence": "Các bị can khác trong vụ án bị truy tố do có các hành vi như buôn lậu ; tiêu thụ tài sản do người khác phạm tội mà có ; gây ô nhiễm môi trường ; vi phạm quy định kế toán … ."
+            },
+            {
+                "texts": [
+                    "các bị can khác",
+                    "các hành vi như buôn lậu ; tiêu thụ tài sản do người khác phạm tội mà có ; gây ô nhiễm môi trường ; vi phạm quy định kế toán"
+                ],
+                "url": "https://baomoi.com/truy-to-cuu-thu-truong-bo-tn-mt-trong-vu-khai-thac-trai-phep-dat-hiem-c51682474.epi",
+                "date": "2025-03-11",
+                "sentence": "Các bị can khác trong vụ án bị truy tố do có các hành vi như buôn lậu ; tiêu thụ tài sản do người khác phạm tội mà có ; gây ô nhiễm môi trường ; vi phạm quy định kế toán … ."
+            },
+            {
+                "texts": [
+                    "các bị can khác",
+                    "các hành vi như buôn lậu ; tiêu thụ tài sản do người khác phạm tội mà có ; gây ô nhiễm môi trường ; vi phạm quy định kế toán"
+                ],
+                "url": "https://baomoi.com/truy-to-cuu-thu-truong-bo-tnmt-nguyen-linh-ngoc-lien-quan-vu-an-dat-hiem-c51681744.epi",
+                "date": "2025-03-11",
+                "sentence": "Các bị can khác trong vụ bị truy tố về các hành vi như buôn lậu ; tiêu thụ tài sản do người khác phạm tội mà có ; gây ô nhiễm môi trường ; vi phạm quy định kế toán … ."
+            }
+        ]
+    },
+    {
+        "triggers": "truy tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí",
+                    "nguyễn văn thuấn ( cựu tổng cục trưởng tổng cục địa chất và khoáng sản ) ; hoàng văn khoa ( cựu vụ trưởng vụ khoáng sản ) cựu giám đốc sở tài nguyên và môi trường tỉnh yên bái hồ đức hợp"
+                ],
+                "url": "https://baomoi.com/truy-to-cac-bi-can-trong-vu-an-khai-thac-trai-phep-dat-hiem-o-yen-bai-c51682546.epi",
+                "date": "2025-03-11",
+                "sentence": "Một số bị can khác tại Bộ Tài nguyên và Môi trường bị đề nghị truy tố tội danh trên như : Nguyễn Văn Thuấn ( cựu Tổng cục trưởng Tổng cục Địa chất và Khoáng sản ) ; Hoàng Văn Khoa ( cựu Vụ trưởng Vụ Khoáng sản ) Cựu Giám đốc Sở Tài nguyên và Môi trường tỉnh Yên Bái Hồ Đức Hợp cũng bị truy tố về tội \" Vi phạm quy định về quản lý , sử dụng tài sản Nhà nước gây thất thoát , lãng phí ."
+            },
+            {
+                "texts": [
+                    "vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí",
+                    "nguyễn văn thuấn ( cựu tổng cục trưởng tổng cục địa chất và khoáng sản ) ; hoàng văn khoa ( cựu vụ trưởng vụ khoáng sản ) cựu giám đốc sở tài nguyên và môi trường tỉnh yên bái hồ đức hợp"
+                ],
+                "url": "https://baomoi.com/truy-to-cac-bi-can-trong-vu-an-khai-thac-trai-phep-dat-hiem-o-yen-bai-c51682546.epi",
+                "date": "2025-03-11",
+                "sentence": "Một số bị can khác tại Bộ Tài nguyên và Môi trường bị đề nghị truy tố tội danh trên như : Nguyễn Văn Thuấn ( cựu Tổng cục trưởng Tổng cục Địa chất và Khoáng sản ) ; Hoàng Văn Khoa ( cựu Vụ trưởng Vụ Khoáng sản ) Cựu Giám đốc Sở Tài nguyên và Môi trường tỉnh Yên Bái Hồ Đức Hợp cũng bị truy tố về tội \" Vi phạm quy định về quản lý , sử dụng tài sản Nhà nước gây thất thoát , lãng phí ."
+            },
+            {
+                "texts": [
+                    "vi phạm quy định về quản lý , sử dụng tài sản nhà nước gây thất thoát , lãng phí",
+                    "nhóm 7 bị can là cựu lãnh đạo , nhân viên bộ tài nguyên và môi trường ( cũ ) - ( tnmt ) và sở tnmt tỉnh yên bái"
+                ],
+                "url": "https://baomoi.com/truy-to-cuu-thu-truong-va-26-bi-can-trong-vu-dat-hiem-yen-bai-c51682015.epi",
+                "date": "2025-03-11",
+                "sentence": "Nhóm 7 bị can là cựu lãnh đạo , nhân viên Bộ Tài nguyên và Môi trường ( cũ ) - ( TNMT ) và Sở TNMT tỉnh Yên Bái bị truy tố về tội \" Vi phạm quy định về quản lý , sử dụng tài sản Nhà nước gây thất thoát , lãng phí \" ."
+            }
+        ]
+    },
+    {
+        "triggers": "xử lý",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "công an xã bắc sơn , huyện trảng bom",
+                    "hành vi lừa đảo chiếm đoạt tài sản",
+                    "đối tượng hoàng văn bàng ( 40 tuổi , quê tỉnh bà rịa – vũng tàu )",
+                    "ngày 8 / 3"
+                ],
+                "url": "https://baomoi.com/bat-nong-doi-tuong-mang-vang-gia-di-lua-o-dong-nai-c51670947.epi",
+                "date": "2025-03-10",
+                "sentence": "Ngày 8 / 3 , Cổng thông tin điện tử công an tỉnh Đồng Nai hông tin , Công an xã Bắc Sơn , huyện Trảng Bom đang lập hồ sơ xử lý đối tượng Hoàng Văn Bàng ( 40 tuổi , quê tỉnh Bà Rịa – Vũng Tàu ) về hành vi lừa đảo chiếm đoạt tài sản để xử lý theo quy định của pháp luật ."
+            },
+            {
+                "texts": [
+                    "công an xã bắc sơn , huyện trảng bom",
+                    "hành vi lừa đảo chiếm đoạt tài sản",
+                    "đối tượng hoàng văn bàng ( 40 tuổi , quê tỉnh bà rịa – vũng tàu )",
+                    "ngày 8 / 3"
+                ],
+                "url": "https://baomoi.com/mang-vang-gia-vao-lua-tiem-vang-nguoi-dan-ong-bi-bat-tai-tran-c51662339.epi",
+                "date": "2025-03-08",
+                "sentence": "Ngày 8 / 3 , Cổng thông tin điện tử công an tỉnh Đồng Nai thông tin , Công an xã Bắc Sơn , huyện Trảng Bom đang lập hồ sơ xử lý đối tượng Hoàng Văn Bàng ( 40 tuổi , quê tỉnh Bà Rịa – Vũng Tàu ) về hành vi lừa đảo chiếm đoạt tài sản để xử lý theo quy định của pháp luật ."
+            },
+            {
+                "texts": [
+                    "hành vi lừa đảo chiếm đoạt tài sản",
+                    "đối tượng hoàng văn bàng ( 40 tuổi , quê tỉnh bà rịa – vũng tàu )",
+                    "ngày 8 - 3",
+                    "công an xã bắc sơn , huyện trảng bom , tỉnh đồng nai"
+                ],
+                "url": "https://baomoi.com/clip-bat-nong-doi-tuong-mang-vang-gia-vao-lua-tiem-vang-o-dong-nai-c51660741.epi",
+                "date": "2025-03-08",
+                "sentence": "Ngày 8 - 3 , Công an xã Bắc Sơn , huyện Trảng Bom , tỉnh Đồng Nai lập hồ sơ xử lý đối tượng Hoàng Văn Bàng ( 40 tuổi , quê tỉnh Bà Rịa – Vũng Tàu ) về hành vi lừa đảo chiếm đoạt tài sản ."
+            },
+            {
+                "texts": [
+                    "công an xã bắc sơn , huyện trảng bom",
+                    "hành vi lừa đảo chiếm đoạt tài sản",
+                    "đối tượng hoàng văn bàng ( 40 tuổi , quê tỉnh bà rịa – vũng tàu )",
+                    "ngày 8 / 3"
+                ],
+                "url": "https://baomoi.com/mang-vang-gia-vao-lua-tiem-vang-nguoi-dan-ong-bi-bat-tai-tran-c51662339.epi",
+                "date": "2025-03-08",
+                "sentence": "Ngày 8 / 3 , Cổng thông tin điện tử công an tỉnh Đồng Nai thông tin , Công an xã Bắc Sơn , huyện Trảng Bom đang lập hồ sơ xử lý đối tượng Hoàng Văn Bàng ( 40 tuổi , quê tỉnh Bà Rịa – Vũng Tàu ) về hành vi lừa đảo chiếm đoạt tài sản để xử lý theo quy định của pháp luật ."
+            }
+        ]
+    },
+    {
+        "triggers": "bị khởi tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "ngày 1 / 3 / 2025",
+                    "ông nguyễn hồ nam - nhà sáng lập tập đoàn"
+                ],
+                "url": "https://baomoi.com/hai-vo-chong-pho-chu-tich-bamboo-capital-dang-ky-ban-ra-hon-11-trieu-co-phieu-bcg-c51683065.epi",
+                "date": "2025-03-11",
+                "sentence": "Sau khi Bamboo Capital công bố thông tin ông Nguyễn Hồ Nam - nhà sáng lập tập đoàn bị khởi tố vào ngày 1 / 3 / 2025 , cổ phiếu BCG giảm sàn trắng bên mua 3 phiên 3 / 3 , 4 / 3 và 5 / 3 ."
+            },
+            {
+                "texts": [
+                    "ngày 1 / 3 / 2025",
+                    "ông nguyễn hồ nam - nhà sáng lập tập đoàn"
+                ],
+                "url": "https://baomoi.com/hai-vo-chong-pho-chu-tich-bamboo-capital-dang-ky-ban-ra-hon-11-trieu-co-phieu-bcg-c51683065.epi",
+                "date": "2025-03-11",
+                "sentence": "Sau khi Bamboo Capital công bố thông tin ông Nguyễn Hồ Nam - nhà sáng lập tập đoàn bị khởi tố vào ngày 1 / 3 / 2025 , cổ phiếu BCG giảm sàn trắng bên mua 3 phiên 3 / 3 , 4 / 3 và 5 / 3 ."
+            },
+            {
+                "texts": [
+                    "ngày 1 / 3 / 2025",
+                    "ông nguyễn hồ nam - nhà sáng lập tập đoàn"
+                ],
+                "url": "https://baomoi.com/hai-vo-chong-pho-chu-tich-bamboo-capital-dang-ky-ban-ra-hon-11-trieu-co-phieu-bcg-c51683065.epi",
+                "date": "2025-03-11",
+                "sentence": "Sau khi Bamboo Capital công bố thông tin ông Nguyễn Hồ Nam - nhà sáng lập tập đoàn bị khởi tố vào ngày 1 / 3 / 2025 , cổ phiếu BCG giảm sàn trắng bên mua 3 phiên 3 / 3 , 4 / 3 và 5 / 3 ."
+            }
+        ]
+    },
+    {
+        "triggers": "bị khởi tố",
+        "trigger_type": "Charge-indict",
+        "entities": [
+            {
+                "texts": [
+                    "phương",
+                    "ngày 2882024"
+                ],
+                "url": "https://baomoi.com/nhan-vien-ngan-hang-lua-dao-chiem-doat-hon-1-2-ty-dong-bi-phat-11-nam-tu-c51696963.epi",
+                "date": "2025-03-12",
+                "sentence": "Ngày 2882024 , Phương bị khởi tố , bắt tạm giam để điều tra ."
+            },
+            {
+                "texts": [
+                    "phương",
+                    "ngày 28 / 8 / 2024"
+                ],
+                "url": "https://baomoi.com/chiem-doat-tien-tu-khoan-vay-cua-khach-nhan-vien-ngan-hang-hang-hai-msb-linh-11-nam-tu-c51696389.epi",
+                "date": "2025-03-12",
+                "sentence": "Ngày 28 / 8 / 2024 , Phương bị khởi tố , bắt tạm giam để điều tra ."
+            },
+            {
+                "texts": [
+                    "phương",
+                    "ngày 28 / 8 / 2024"
+                ],
+                "url": "https://baomoi.com/chiem-doat-tien-tu-khoan-vay-cua-khach-nhan-vien-ngan-hang-hang-hai-msb-linh-11-nam-tu-c51696389.epi",
+                "date": "2025-03-12",
+                "sentence": "Ngày 28 / 8 / 2024 , Phương bị khởi tố , bắt tạm giam để điều tra ."
+            },
+            {
+                "texts": [
+                    "phương",
+                    "ngày 28 / 8 / 2024"
+                ],
+                "url": "https://baomoi.com/chiem-doat-tien-tu-khoan-vay-cua-khach-nhan-vien-ngan-hang-hang-hai-msb-linh-11-nam-tu-c51696389.epi",
+                "date": "2025-03-12",
+                "sentence": "Ngày 28 / 8 / 2024 , Phương bị khởi tố , bắt tạm giam để điều tra ."
+            }
+        ]
+    }
+]
